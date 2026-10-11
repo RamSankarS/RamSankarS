@@ -1,5 +1,5 @@
 # Hello World!
-I'm Ram Sankar, a Computer Science undergraduate who's majoring in data science. I'm also an avid data enthusiast and a web-developer in the making. 
+I'm Ram Sankar, a Computer Science postgraduate who's an avid data enthusiast and a web-developer in the making. 
 
 ## Tech Stack:
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,postgres,mysql,vscode,git,github,linux,react"><hr>
